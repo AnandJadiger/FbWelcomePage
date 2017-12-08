@@ -1,0 +1,36 @@
+.navbar-inverse
+{
+	background-color:#3b5998;
+}
+h1
+{
+color:white;
+
+}
+
+label
+{
+	color:white;
+}
+p
+{
+	color:white;
+}
+
+
+.mar
+{
+	margin-top:10%;
+}
+
+a:hover{text-decoration:none; color:red;}
+
+.bodycolor
+{
+	color:black;
+}
+
+.tboxmargin
+{
+	margin-top:3%;
+}
